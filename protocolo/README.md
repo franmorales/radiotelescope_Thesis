@@ -1,4 +1,6 @@
 ==========================README_FILE==============================
+
+
 Radiotelescopio.
 ¿Qué es?
 Es un dispositivo que puede medir radiación electromagnética dentro de cierto rango de frecuencia.
