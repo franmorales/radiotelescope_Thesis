@@ -1,1 +1,19 @@
 ==========================README_FILE==============================
+Radiotelescopio.
+¿Qué es?
+Es un dispositivo que puede medir radiación electromagnética dentro de cierto rango de frecuencia.
+  Qué tipo de dispositivo, cómo esta construido?
+  Qué es radiación electromagnética?
+  Qué rango de frecuencias?
+     Most of the radio part of the EM spectrum falls in the range from about 1 cm to 1 km, 
+     which is 30 gigahertz (GHz) to 300 kilohertz (kHz) in frequencies. The radio is a very broad part of the EM spectrum. 
+
+
+¿Qué mide?
+  Radiación electromagnética.
+  Qué es radiación electromagnética?
+  
+  
+¿Para qué medir eso?
+  Se mide ese tipo de radiacio
+¿Qué beneficios resuelve.
