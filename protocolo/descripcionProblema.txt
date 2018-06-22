@@ -1,0 +1,30 @@
+Descripcion del problema (plantear el problema como un problema a resolver).
+
+
+El espectro de radiación electromagnética proveniente del espacio exterior proporciona información valiosa acerca de 
+fenómenos y cuerpos celestes. La radiación electromagnética que alcanza la superficie terrestre comprende las ondas de radio,
+el espectro de luz visible y el extremo superior del espectro infrarrojo.  
+
+Para la recopilación de información a través del espectro electromagnético se necesita de diversos tipos de telescopios los 
+cuales a su vez, basan su funcionamiento en circuitos electrónicos. 
+
+Actualmente la universidad de San Carlos de Guatemala carece de instrumentacion alguna para la observación radioastronómica,
+limitando a la poblacion académica la investigacion y desarrollo de esta disciplina al no tener acceso a este tipo de 
+equipos, desaprovechando el interés y potencial que la poblacion pudiera tener para contribuir al desarrollo de la cultura 
+científica en nuestro país.
+
+Hoy en día la universidad de San Carlos de Guatemala cuenta con catedráticos egresados de universidades extranjeras que poseen 
+conocimientos sólidos en radioastronomía y teniendo el equipo adecuado, se podrían aprovechar sus capacidades para enriquecer 
+la cultura científica en nuestra sociedad.  
+
+
+
+==============================================================================================================================
+
+
+Actualmente la universidad de San Carlos de Guatemala carece de algún instrumento para la observación radioastronómica, 
+limitando la investigación en esta área. Debido a esto se desaprovecha el interés y potencial que la población académica 
+pudiera tener para contribuir al desarrollo de esta disciplina científica en nuestro país.
+ 
+En Guatemala no existe documentación alguna sobre la implementación de este tipo de instrumentos electrónicos, 
+por lo que se propone crear una base teórica y práctica para su implementación.
