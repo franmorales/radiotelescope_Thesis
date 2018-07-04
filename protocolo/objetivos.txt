@@ -1,6 +1,31 @@
 
-GENERAL:
+ESPECIFICOS:
 
-  Realizar el dieseño de un radiotelescopio con un alto nivel de precision y exactitud, integrando sistemas electronicos y 
-  software capaz de brindar una recopilacion de datos fiable a fin de utilizarlos en investigaciones cientificas.
+  Realizar el dieseño de un radiotelescopio con un alto nivel de precision y exactitud integrando sistemas electronicos y de
+  software, capaz de brindar una recopilacion de datos confiable a fin de utilizarlos en investigaciones cientificas.
   
+GENERALES:
+  
+  Incentivar la investigacion en el campo de la radioastronomia en los estudiantes de la Escuela de Ciencias Fisicas y
+  Matematicas, USAC.
+  
+  Establecer una base teórica y práctica en la implementacion de instrumentos de medicion radiastronómica.
+
+  Establecer una base teórica y práctica en la implementacion de instrumentos de medicion orientados a la radioastronomia, a 
+  fin de. 
+   
+  Contribuir al desarrollo de la cultura científica en Guatemala.
+  
+  Aplicar los conocimientos adquiridos durante la carrera de Ingeniería Electrónica.
+  
+  
+#############################################################################################################
+
+En primer lugar, es necesario establecer qué pretende la investigación, es decir, cuáles son sus objetivos. Unas
+investigaciones buscan, ante todo, contribuir a resolver un problema en especial; en tal caso debe mencionarse cuál es y de
+qué manera se piensa que el estudio ayudará a resolverlo; otras tienen como objetivo principal probar una teoría o aportar
+evidencia empírica en favor de ella.
+
+Los objetivos deben expresarse con claridad para evitar posibles desviaciones en el proceso de investigación cuantitativa y
+ser susceptibles de alcanzarse (Rojas, 2002); son las guías del estudio y hay que tenerlos presentes durante todo su
+desarrollo. Evidentemente, los objetivos que se especifiquen requieren ser congruentes entre sí.
