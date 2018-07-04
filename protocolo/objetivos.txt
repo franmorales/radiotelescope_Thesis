@@ -1,0 +1,6 @@
+
+GENERAL:
+
+  Realizar el dieseño de un radiotelescopio con un alto nivel de precision y exactitud, integrando sistemas electronicos y 
+  software capaz de brindar una recopilacion de datos fiable a fin de utilizarlos en investigaciones cientificas.
+  
