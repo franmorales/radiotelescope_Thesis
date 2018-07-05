@@ -1,14 +1,31 @@
 
+GENERAL:
+
+  Realizar el dieseño de un radiotelescopio con un alto nivel de precision y exactitud, capaz de brindar datos confiable a fin de utilizarlos en investigaciones 
+  cientificas.
+  
 ESPECIFICOS:
 
-  Realizar el dieseño de un radiotelescopio con un alto nivel de precision y exactitud integrando sistemas electronicos y de
-  software, capaz de brindar una recopilacion de datos confiable a fin de utilizarlos en investigaciones cientificas.
-  
-GENERALES:
-  
-  Incentivar la investigacion en el campo de la radioastronomia en los estudiantes de la Escuela de Ciencias Fisicas y
-  Matematicas, USAC.
-  
+  Aplicar los conocimientos adquiridos durante la carrera de ingenieria electronica para disenar sistemas de medicion y
+  adquisicion de datos utilizando dispositivos single-board y software basado en GNU/Linux.
+
+  Solventar la carencia de dispositivos de instrumentacion radiastronomica en la Escuela de Ciencias Fisicas y Matematicas, 
+  USAC. QUE DISPOSITIVOS?
+	  
+  Incentivar la investigacion en el campo de la radioastronomia en los estudiantes de la Escuela de Ciencias Fisicas y 
+  Matematicas con el fin de contribuir al desarrollo de la cultura cientifica en Guatemala. POR QUE ESTO ES UN PROBLEMA?
+
+
+
+  Aplicar los conocimientos adquiridos durante la carrera de Ingeniería Electrónica relacionados con los sistemas de medicion,
+  adquisicion de datos y sistemas embebidos. QUE CONOCIMIENTOS
+  	PROGRAMACION EN C
+  	PROGRAMACION EN PYTHON
+  	PROGRAMACION EN C++
+
+
+
+
   Establecer una base teórica y práctica en la implementacion de instrumentos de medicion radiastronómica.
 
   Establecer una base teórica y práctica en la implementacion de instrumentos de medicion orientados a la radioastronomia, a 
@@ -16,7 +33,7 @@ GENERALES:
    
   Contribuir al desarrollo de la cultura científica en Guatemala.
   
-  Aplicar los conocimientos adquiridos durante la carrera de Ingeniería Electrónica.
+
   
   
 #############################################################################################################
@@ -29,3 +46,7 @@ evidencia empírica en favor de ella.
 Los objetivos deben expresarse con claridad para evitar posibles desviaciones en el proceso de investigación cuantitativa y
 ser susceptibles de alcanzarse (Rojas, 2002); son las guías del estudio y hay que tenerlos presentes durante todo su
 desarrollo. Evidentemente, los objetivos que se especifiquen requieren ser congruentes entre sí.
+
+
+
+GNU Radio, Dispositivos Single-board, Diseno de filtros (incerte tipo de filtros) utiulizando
