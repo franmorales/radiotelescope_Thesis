@@ -15,8 +15,9 @@ ESPECIFICOS:
   incentivando la investigacion en el campo de la radioastronomia en la poblacion estudiantil, promoviendo de esa forma, la
   cultura científica en Guatemala. (SEMI-APROBADO)
   
-  Desarrollar la base teórica y práctica para el desarrollo de futuros dispositivos de medicion y adquisicion de datos a 
-  fin de mejorar de manera continua el dispositivo que en cuestion ocupa el tema principal de este trabajo de graduacion.
+  Establecer una base teórica y práctica para el desarrollo de futuros dispositivos de medicion y adquisicion de datos 
+  enfocados a la radioastronomia, con el fin de mejorar la calidad de los datos recopilados y poder desarrollar
+  investigaciones cientificas competentes.
   
   . QUE DISPOSITIVOS?
 	  
