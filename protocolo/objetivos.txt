@@ -17,7 +17,7 @@ ESPECIFICOS:
   
   Establecer una base teórica y práctica para el desarrollo de futuros dispositivos de medicion y adquisicion de datos 
   enfocados a la radioastronomia, con el fin de mejorar la calidad de los datos recopilados y poder desarrollar
-  investigaciones cientificas competentes.
+  investigaciones cientificas competentes. (APROBADO)
   
   . QUE DISPOSITIVOS?
 	  
