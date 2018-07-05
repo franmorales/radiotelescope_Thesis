@@ -8,12 +8,15 @@ GENERAL:
 ESPECIFICOS:
 
   Aplicar los conocimientos adquiridos durante la carrera de ingenieria electronica para disenar sistemas de medicion y
-  adquisicion de datos dentro del espectro electromagnetico de las ondas de radio, utilizando dispositivos single-board y
+  adquisicion de datos sobre el espectro electromagnetico de las ondas de radio, utilizando dispositivos single-board y
   software libre basado en GNU/Linux. (APROBADO)
    
   Solventar la carencia de dispositivos de instrumentacion radiastronomica en la Escuela de Ciencias Fisicas y Matematicas, 
   incentivando la investigacion en el campo de la radioastronomia en la poblacion estudiantil, promoviendo de esa forma, la
   cultura científica en Guatemala. (SEMI-APROBADO)
+  
+  Desarrollar la base teórica y práctica para el desarrollo de futuros dispositivos de medicion y adquisicion de datos a 
+  fin de mejorar de manera continua el dispositivo que en cuestion ocupa el tema principal de este trabajo de graduacion.
   
   . QUE DISPOSITIVOS?
 	  
