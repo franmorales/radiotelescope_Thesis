@@ -1,9 +1,8 @@
 
 GENERAL:
 
-  Realizar el dieseño de un radiotelescopio con un alto nivel de precision y exactitud, capaz de brindar datos confiable a fin
-  de utilizarlos en investigaciones 
-  cientificas.
+  Realizar el dieseño de un radiotelescopio con un alto nivel de precision y exactitud, capaz de brindar datos confiables a 
+  fin de utilizarlos en investigaciones cientificas. (APROBADO)
   
 ESPECIFICOS:
 
@@ -11,9 +10,9 @@ ESPECIFICOS:
   adquisicion de datos sobre el espectro electromagnetico de las ondas de radio, utilizando dispositivos single-board y
   software libre basado en GNU/Linux. (APROBADO)
    
-  Solventar la carencia de dispositivos de instrumentacion radiastronomica en la Escuela de Ciencias Fisicas y Matematicas, 
+  Solventar la carencia de dispositivos de instrumentacion radioastronomica en la Escuela de Ciencias Fisicas y Matematicas, 
   incentivando la investigacion en el campo de la radioastronomia en la poblacion estudiantil, promoviendo de esa forma, la
-  cultura científica en Guatemala. (SEMI-APROBADO)
+  cultura científica en Guatemala. (APROBADO)
   
   Establecer una base teórica y práctica para el desarrollo de futuros dispositivos de medicion y adquisicion de datos 
   enfocados a la radioastronomia, con el fin de mejorar la calidad de los datos recopilados y poder desarrollar
