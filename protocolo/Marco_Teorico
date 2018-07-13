@@ -56,7 +56,37 @@ DEBIDO AL GRAN TRABAJO QUE SUPONE RELAIZAR UN RADIOTELESCOPIO A NIVEL PROFESINAL
 SOLA PERSONA, SERIA MUY COMPLICADO.
 
 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+https://www.youtube.com/watch?v=aeah3fFYlnA
+
+How to build a Radio Telescope?
+
+Los radiotelescopios no son muy diferentes delos telescoios normales, salvo que en lugar de fijarse en el espectro de luz
+visible, se fijan en el espectro de ondas de radio.
+
+En luger de percibir diferentes "colores", en los radiotelescopios se perciben diferentes frecuencias (nota: el color es una
+frecuencia tambien).
+
+
+NOTA TECNICA: Se debe tener un buscador de satellites, esto es de ley. y una antena parabolica.
+NOTA TECNICA: SI VAMOS A BUSCAR UN SATELITE GEOESTACIONARIO, POR QUE NECESITAMOS  QUE LA ANTENA SE MUEVA? VAMOS A ENFOCAR LA
+ANTENA HACIA UN CUERPO CELESTE EN MOVIMIENTO?
+
+NOTA TECNICA: LA CANTIDAD DE RUIDO QUE HACE EL LNB ES DIRECTAMENTE PROPORCIONAL A LA CANTIDAD DE SENAL MUESTREADA.
+
+Diagrama de bloques:
+
+Antena --> LNB --> Satallite finder --> Mecanismo de movimiento para enfocar el satelite --> MicroControlller (for ADC speechs)
+
+
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ####################################################
 Referencias: 
@@ -70,6 +100,7 @@ https://www.youtube.com/watch?v=QLUrwoHRLJM
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 2) Fisica involucrada en la radioastronomia.
 
 
