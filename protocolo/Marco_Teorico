@@ -31,13 +31,29 @@ La radioastronomia al final, no es mas que una rama de la fisica y mas especific
 para el estudio del universo, y como toda herramienta su funcion principal se basa en ser utilizable para otros propocitos 
 mas beneficioes.
 
+Diagrama de bloques:
+antena parabolica recibe la senal de radio de la fuente. se amplicfica, se procesa en el sistema digital. se procesa toda la 
+informacion para obtener resultados.
+
+Arreglo de multiples antenas para formar un radiotelescopo (interferometro), recombina los datos de los multiples platos y los 
+procesa un software para converirlos en uno solo UTILIZANDO UNA TECNICA LLAMADA APERTURA DE SYNTESIS (MARTIN RYLE).
+
+NOTA MOTIVACIONAL: INDIA LO LOGRO SIN APOYO (GMRT), 150-1450 MHz
+
 #PROBLEMA TECNICO: DEBIDO A QUE LA FRECUENCIA A LA QUE SE TRABAJA OPERA A NIVELES MUY BAJOS, SE NECESITA DE UN RECEPTOR MUY
 SENSIBLE PARA QUE FUNCIONE.
+#PROBLEMA TECNICO: LAS ANTENAS TIENEN QUE ROTARSE.
+#PROBLEMA TECNICO: LAS ANTENAS DEBE ESTAR AISLADAS DE CUALQUIER FUENTE DE INTERFERENCIA ELECTROMAGNETICA (TELEFONIA, ALTA 
+POTENCIAS, SENALES DE RADIO, ETC)
+
+
 
 1963
 
 NOTA PARA OBJETIVOS: ESTE TRABAJO TIENE COMO OBJETIVO SERVIR DE PRECEDENTE PARA TRABAJOS MAS PROFESIONALES Y ATRAER 
-INVERSIONISTAS PARA MEJORAR LA CALIDAD DE INVESTIGACION EN GUATEMALA
+INVERSIONISTAS PARA MEJORAR LA CALIDAD DE INVESTIGACION EN GUATEMALA.
+DEBIDO AL GRAN TRABAJO QUE SUPONE RELAIZAR UN RADIOTELESCOPIO A NIVEL PROFESINAL, CONSTRUIR UNO COMO TAL, NO ES TRABAJO DE UNA
+SOLA PERSONA, SERIA MUY COMPLICADO.
 
 
 
