@@ -1,0 +1,35 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++PARTE DE RF+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+*GNU Radio + RF Circuits
+
+
+https://www.rtl-sdr.com/tutorial-creating-fm-receiver-gnuradio-rtl-sdr/ Este link es mas que todo practica, no incluye nada de
+teoria.
+
+R820T ESTE ES EL QUE DEBO UTILIZAR.
+
+
+Las ondas de radio pueden ser recibidas tanto por un receptor FM como por un receptor AM (Los combencionales para escuchar
+musica. Aqui ensenan a realizar un receptor FM con GNU Radio. 
+
+Primer instrumento RTL: (PARA PARTE TEORICA/PRACTICA)
+
+Step 1: What's RTL-SDR?
+RTL-SDR is the cheapest method to get into the world of SDR (Software Defined Radio) - method of receiving 
+(RTL-SDR have no capability to transmit) and processing radio transmission using your PC. Using it you can receive everything 
+that is transmitted between about 20~2000 MHz depending on second chip on the device.
+In brief it can hear i.e.:
+- ordinary FM radio stations
+- police radio transmissions
+- plane and ship tracking informations
+- small radio devices like car keys
+- probably GPS satellites (as of now there is no confirmed method to do this)
+- International Space Station and other space equipment that transmits below 2 GHz
+- every other device that you know transmits on these frequencies
+
+
+Despues de esto en el POST ponen algo de practica en cuanto a como lehicieron para lograr hacer funcionar el RTL en arch-linux.
+(Parte practica)
+
+
+Nota: La principal diferencia entre las diferentes marcas de los RTL esta en la capacidad de recepcion. Debido a que esto va 
+conectado directamente a una antena creo que el cable coaxial sale de aqui.
