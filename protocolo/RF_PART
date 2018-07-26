@@ -2,6 +2,7 @@
 *GNU Radio + RF Circuits
 
 
+=============================================================================================================================
 https://www.rtl-sdr.com/tutorial-creating-fm-receiver-gnuradio-rtl-sdr/ Este link es mas que todo practica, no incluye nada de
 teoria.
 
@@ -33,3 +34,52 @@ Despues de esto en el POST ponen algo de practica en cuanto a como lehicieron pa
 
 Nota: La principal diferencia entre las diferentes marcas de los RTL esta en la capacidad de recepcion. Debido a que esto va 
 conectado directamente a una antena creo que el cable coaxial sale de aqui.
+
+==============================================================================================================================
+
+https://hackaday.com/2016/03/23/michael-ossmann-makes-you-an-rf-design-hero/
+
+
+1. Use Four Layers
+Four-layer PCB prices have gone way down, and having unbroken power planes on the inside of your board makes your design 
+simpler and makes for a consistent RF environment throughout. You could build it on a two-layer board, but then when it 
+doesn’t work, you’re going to need that pricey test equipment. Keeping the layout simple, with RF traces all on top and power 
+planes in the middle, is insurance against the gremlins.
+
+Resumen: Utilizar PCBs de 4 capas es algo puramente practico que ayuda en la implementacion del diseno.
+
+
+2. Use the Most Integrated Component Possible
+Design your board around the most-integrated parts you can find. That’s going to mean picking an integrated transceiver IC 
+that’s got everything in silicon. That’s a whole lot of tricky design work that you won’t have to do. The same applies to 
+filters; you could spend hours designing a fancy filter and layout, or you could just find the right part ([Mike] likes SAW 
+filters a lot) that fits your design.
+
+Resumen: No inventar el agua azucarada. Utilizar lo que ya este implementado.
+
+3. Design for 50 ohms Everywhere
+Impedance matching: you just can’t get around it. Most manufacturers’ parts are built for 50 ohm inputs and outputs, though, 
+so there’s no work for you to do there. Your only job is to make sure that the traces between the parts have a 50 ohm 
+characteristic impedance. How do you do it? KiCad has a tool, and otherwise there’s the Internet. You just need to know some 
+properties of your PCB from the manufacturer, plug them into a calculator, and then you get out a trace width that will give 
+you 50 ohms across the board. Remember that unbroken power-plane in the second layer of your four-layer layup? It makes the 
+same trace width work everywhere. That’s the hardest part of RF design, done.
+
+Resumen: Esto es teoria pura, aqui tenes que estudiar mas sobre que se trata el diseno de 50 ohms. Que es el estandard de los 
+50 ohms?
+
+4. Follow Manufacturer Recommendations
+What if you absolutely need to use a part that doesn’t work on a 50-ohm standard? Unless they don’t want your business, 
+the manufacturer will provide you with a reference circuit that transforms the output to 50 ohms. Your job is to take 
+advantage of the work of their applications engineers. There will often be a layout specified, sometimes even down to the part 
+numbers. If they tell you how to get their chip’s input or output to work with a 50 ohm single-ended transmission line, you do 
+it.
+
+Resumen:
+
+5. Route the RF Parts First
+The RF signals are the most sensitive part of your circuit design. We already know what the desired RF trace width is, so all 
+that’s left is laying them out. [Mike] advises you to keep the traces short, relative to the frequency of interest. After 
+you’ve laid our your RF signals, keep your digital traces a little bit away from the RF traces whenever possible. That’s it.
+
+
