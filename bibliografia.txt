@@ -5,3 +5,8 @@ https://imagine.gsfc.nasa.gov/science/toolbox/multiwavelength1.html
 https://imagine.gsfc.nasa.gov/science/toolbox/emspectrum1.html
 http://www.radio-astronomy.org/node/240
 http://www.setileague.org/articles/protectd.htm
+
+Cursos en universides: Para las fuentes de radiación y los parametros a medir.
+
+https://web.njit.edu/~gary/728/Lecture2.html
+https://www.cv.nrao.edu/~sransom/web/Ch2.html
