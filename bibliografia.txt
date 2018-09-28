@@ -19,3 +19,7 @@ https://www.youtube.com/watch?v=XrAktUy3_3k
 Raddiacion de frenado:
 
 https://en.wikipedia.org/wiki/Bremsstrahlung
+
+Antennas:
+https://en.wikipedia.org/wiki/Angular_resolution
+https://www.cv.nrao.edu/~sransom/web/Ch3.html#S5
