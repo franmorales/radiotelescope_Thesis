@@ -23,3 +23,4 @@ https://en.wikipedia.org/wiki/Bremsstrahlung
 Antennas:
 https://en.wikipedia.org/wiki/Angular_resolution
 https://www.cv.nrao.edu/~sransom/web/Ch3.html#S5
+https://spacemath.gsfc.nasa.gov/moon/6Page50.pdf ==========>>>> FORMULA PARA LA RESOLUCION ANGULAR SEGUN LA NASA
